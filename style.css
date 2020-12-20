@@ -1,0 +1,16 @@
+#wrap{
+	margin:0px auto 0px auto;
+	padding:10px;border:1px solid #074776;border-radius:10px;
+	border-radius:10px;width:950px;
+	
+	}
+#header {height:150px;border-bottom:10px solid #d2d2d2;background-image:url(images/header.jpg); background-position:left top;
+	background-repeat:no-repeat;}
+h2 {margin-top:0px;margin-left:495px;}
+
+#header p {margin-left:495px;}
+#footer {height:50px;border-top:10px solid #d2d2d2;clear:both;}
+h5 {text-align:center;}
+#main {border-right:1px solid #074776;width:700px;float:left;}
+#sidebar {width:246px;float:left;}
+ 
